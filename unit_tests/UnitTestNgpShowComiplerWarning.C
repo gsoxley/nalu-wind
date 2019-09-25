@@ -7,10 +7,7 @@
 
 #include "gtest/gtest.h"
 #include "UnitTestUtils.h"
-#include <NaluEnv.h>
-
 #include "ngp_utils/NgpTypes.h"
-#include "ngp_utils/NgpLoopUtils.h"
 
 namespace sierra{
 namespace nalu{
